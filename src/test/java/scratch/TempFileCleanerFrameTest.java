@@ -1,0 +1,4 @@
+package scratch;
+
+class TempFileCleanerFrameTest {
+}
